@@ -1,3 +1,3 @@
 # React-Projects
 
-[Lesson Reminder](https://github.com/MilesSouth/React-Projects/)
+[Lesson Reminder](https://github.com/selimegeguney/React-Projects/)
