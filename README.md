@@ -1,3 +1,3 @@
 # React-Projects
 
-[Lesson Reminder](https://github.com/selimegeguney/React-Projects/lesson-tracker)
+[Lesson Reminder](https://selimegeguney.github.io/React-Projects/lesson-tracker/)
